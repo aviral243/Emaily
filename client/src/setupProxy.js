@@ -7,4 +7,3 @@ module.exports = function (app) {
     })
   );
 };
-console.log("setup PROXY WORKING");
